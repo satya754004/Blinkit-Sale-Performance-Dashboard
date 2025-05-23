@@ -1,4 +1,4 @@
-# 🛒 Blinkit-Sale-Performance-Dashboard
+# 🛒 Blinkit Sales Dashboard
 ## 🎯 Project Objective
 This interactive Business Intelligence Dashboard analyzes Blinkit’s sales, product performance, and outlet-level metrics to generate actionable insights for business decision-making. Built using Power BI, the dashboard visualizes historical trends, sales distribution, outlet performance, and product category analysis-empowering stakeholders to optimize operations and maximize revenue.
 
